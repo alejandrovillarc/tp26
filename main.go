@@ -10,7 +10,7 @@ func main() {
 	diccionario := map[string]string{
 		"Martínez": "Edad: \nNombre completo: \nApodo: \nFecha de nacimiento: \nEstatura: \nPeso: ",
 		// Agregar un jugador de la selección argentina
-		"Messi": "Edad: 34\nNombre completo: Lionel Messi\nApodo: La Pulga\nFecha de nacimiento: 24 de junio de 1987\nEstatura: 1.70 m\nPeso: 72 kg",
+		"Lionel": "Edad: 34\nNombre completo: Lionel Messi\nApodo: La Pulga\nFecha de nacimiento: 24 de junio de 1987\nEstatura: 1.70 m\nPeso: 72 kg",
 	}
 
 	// Verificar si se proporciona un argumento (el apellido del jugador a buscar).
